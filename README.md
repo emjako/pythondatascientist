@@ -1,4 +1,4 @@
-![](/other/python-pour-le-data-scientist-dunod.jpeg =150x)
+![](/other/python-pour-le-data-scientist-dunod.jpeg){:height="300px"}
 
 # Python pour la data scientist
 
