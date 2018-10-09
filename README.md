@@ -6,7 +6,7 @@ Ce répertoire rassemble des [Jupyter](http://jupyter.org/) notebooks ainsi que 
 
 Les notebooks sont divisés par chapitres ou sous-chapitres et sont rassemblés dans le répertoire [notebooks](/notebooks/).
 
-Pour utiliser ce répertoire, vous truoverez [des détails plus bas](# Utilisation de ce répertoire).
+Pour utiliser ce répertoire, vous truoverez [des détails plus bas](#Utilisation de ce répertoire).
 
 ## Organisation du répertoire
 
