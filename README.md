@@ -12,8 +12,8 @@ Pour utiliser ce répertoire, vous truoverez [des détails plus bas](#utilisatio
 
 Les thèmes abordés sont les suivants :
 
-- ![*Chapitre 2* - Les bases du langage](/notebooks/02_python_from_scratch.ipynb)
-- ![*Chapitre 3* - Les structures pour traiter des données (NumPy / Pandas)](/notebooks/03_numpy_pandas_bases.ipynb)
+- [*Chapitre 2* - Les bases du langage](/notebooks/02_python_from_scratch.ipynb)
+- [*Chapitre 3* - Les structures pour traiter des données (NumPy / Pandas)](/notebooks/03_numpy_pandas_bases.ipynb)
 - *Chapitre 4* - La préparation des données
 - *Chapitre 5* - La data visualisation
 - *Chapitre 6* - Le machine learning et le deep learning
