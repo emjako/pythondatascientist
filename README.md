@@ -6,7 +6,7 @@ Ce répertoire rassemble des [Jupyter](http://jupyter.org/) notebooks ainsi que 
 
 Les notebooks sont divisés par chapitres ou sous-chapitres et sont rassemblés dans le répertoire [notebooks](/notebooks/).
 
-Pour utiliser ce répertoire, vous truoverez [des détails plus bas](utilisation).
+Pour utiliser ce répertoire, vous truoverez [des détails plus bas](# Utilisation de ce répertoire).
 
 ## Organisation du répertoire
 
@@ -28,7 +28,7 @@ Les thèmes abordés sont les suivants :
 
 Une partie des données utilisées dans l'ouvrage est disponible dans le répertoire [data](/data/), le reste des données est directement accessible par des liens dans les Notebooks (dans le cas où celles-ci sont trop volumineuses pour ce répertoire).
 
-## Utilisation de ce répertoire <a name="utilisation"></a>
+## Utilisation de ce répertoire
 
 Vous pouvez bien entendu parcourir ce répertoire et ses notebooks directement sur github.com mais ce que je vous conseille, c'est de télécharger tous le répertoire et d'installer Anaconda sur votre machine. Vous en trouverez une version ici :
 
