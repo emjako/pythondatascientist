@@ -12,8 +12,8 @@ Pour utiliser ce répertoire, vous truoverez [des détails plus bas](#utilisatio
 
 Les thèmes abordés sont les suivants :
 
-- *Chapitre 2* - Les bases du langage
-- *Chapitre 3* - Les structures pour traiter des données (NumPy / Pandas)
+- ![*Chapitre 2* - Les bases du langage](/notebooks/02_python_from_scratch.ipynb)
+- ![*Chapitre 3* - Les structures pour traiter des données (NumPy / Pandas)](/notebooks/03_numpy_pandas_bases.ipynb)
 - *Chapitre 4* - La préparation des données
 - *Chapitre 5* - La data visualisation
 - *Chapitre 6* - Le machine learning et le deep learning
@@ -28,7 +28,8 @@ Les thèmes abordés sont les suivants :
 
 Une partie des données utilisées dans l'ouvrage est disponible dans le répertoire [data](/data/), le reste des données est directement accessible par des liens dans les Notebooks (dans le cas où celles-ci sont trop volumineuses pour ce répertoire).
 
-## Utilisation de ce répertoire <a id="utilisation"></a>
+<a id="utilisation"></a>
+## Utilisation de ce répertoire
 
 Vous pouvez bien entendu parcourir ce répertoire et ses notebooks directement sur github.com mais ce que je vous conseille, c'est de télécharger tous le répertoire et d'installer Anaconda sur votre machine. Vous en trouverez une version ici :
 
