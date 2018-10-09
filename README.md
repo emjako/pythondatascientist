@@ -1,10 +1,10 @@
-![Python pour la data scientist](/other/python-pour-le-data-scientist-dunod.jpg)
+![Python pour la data scientist](/other/python-pour-le-data-scientist-dunod.jpeg)
 
 # Python pour la data scientist
 
 Ce répertoire rassemble des Jupyter notebooks ainsi que des données permettant d'illustrer l'ouvrage Python pour le data scientist par Emmanuel Jakobowicz paru chez Dunod en octobre 2018.
 
-Les notebooks sont divisé par chapitres ou sous-chapitres et sont rassemblés dans le répertoire notebooks.
+Les notebooks sont divisés par chapitres ou sous-chapitres et sont rassemblés dans le répertoire notebooks.
 
 ## Organisation du répertoire
 
@@ -18,7 +18,7 @@ Les thèmes abordés sont les suivants :
   - 6.1 - Les approches supervisées
   - 6.2 - Les approches non supervisées
   - 6.3 - Le deep learning avec Keras
-- Chapitre 7 - Les traitement "big data"
+- Chapitre 7 - Les traitements "big data"
   - 7.1 - Récupérer des données depuis une infrastructure big data
   - 7.2 - PySpark pour Apache PySpark
 
