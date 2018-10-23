@@ -15,14 +15,19 @@ Les thèmes abordés sont les suivants :
 - [*Chapitre 2* - Les bases du langage](/notebooks/02_python_from_scratch.ipynb)
 - [*Chapitre 3* - Les structures pour traiter des données (NumPy / Pandas)](/notebooks/03_numpy_pandas_bases.ipynb)
 - *Chapitre 4* - La préparation des données
+  - [*4.1* - La récupération des données](/notebooks/04_01_recuperation_des_donnees.ipynb)
+  - [*4.2* - La préparation des données et les premières statistiques](/notebooks/04_02_manipulation_description_des_donnees.ipynb)
 - *Chapitre 5* - La data visualisation
+  - [*5.1* - La data visualisation avec Matplotlib et Seaborn](/notebooks/05_01_Data_visualisation_ matplotlib_seaborn.ipynb)
+  - [*5.2* - La cartographie et les dataviz interactives](/notebooks/05_02_Data_visualisation_cartographie.ipynb)
 - *Chapitre 6* - Le machine learning et le deep learning
-  - *6.1* - Les approches supervisées
-  - *6.2* - Les approches non supervisées
-  - *6.3* - Le deep learning avec Keras
+  - [*6.1* - Les approches supervisées](/notebooks/06_01_Machine_learning_supervise.ipynb)
+  - [*6.2* - Les approches non supervisées](/notebooks/06_02_Machine_learning_non_supervise.ipynb)
+  - [*6.3* - Le traitement des données textuelles (NLP)](/notebooks/06_03_NLP.ipynb)
+  - [*6.4* - Le deep learning avec Keras](/notebooks/06_04_Deep_Learning.ipynb)
 - *Chapitre 7* - Les traitements "big data"
-  - *7.1* - Récupérer des données depuis une infrastructure big data
-  - *7.2* - PySpark pour Apache PySpark
+  - [*7.1* - Récupérer des données depuis une infrastructure big data](/notebooks/07_01_Big_data_import.ipynb)
+  - [*7.2* - PySpark pour Apache Spark](/notebooks/07_02_Spark.ipynb)
 
 ## Les données
 
