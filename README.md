@@ -18,7 +18,7 @@ Les thèmes abordés sont les suivants :
   - [*4.1* - La récupération des données](/notebooks/04_01_recuperation_des_donnees.ipynb)
   - [*4.2* - La préparation des données et les premières statistiques](/notebooks/04_02_manipulation_description_des_donnees.ipynb)
 - *Chapitre 5* - La data visualisation
-  - [*5.1* - La data visualisation avec Matplotlib et Seaborn](/notebooks/05_01_Data_visualisation_ matplotlib_seaborn.ipynb)
+  - [*5.1* - La data visualisation avec Matplotlib et Seaborn](/notebooks/05_01_Data_visualisation_matplotlib_seaborn.ipynb)
   - [*5.2* - La cartographie](/notebooks/05_02_Data_visualisation_cartographie.ipynb)
   - [*5.3* - Les dataviz interactives](/notebooks/05_03_Visualisations_interactives.ipynb)
 - *Chapitre 6* - Le machine learning et le deep learning
