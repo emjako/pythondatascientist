@@ -48,7 +48,7 @@ Une fois que vous avez installé Anaconda, vous pouvez créer un environnement �
 
 Utilisez le terminal ou la ligne de commande Anaconda (Conda Prompt). Utilisez la commande :
 ```
-conda env create -f environment.yml
+conda-env create -n mon_nouvel_env -f=environment.yml
 ```
 
 Il ne vous reste qu'à activer votre environnement en utilisant :
