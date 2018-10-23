@@ -6,7 +6,9 @@ Ce répertoire rassemble des [Jupyter](http://jupyter.org/) notebooks ainsi que 
 
 Les notebooks sont divisés par chapitres ou sous-chapitres et sont rassemblés dans le répertoire [notebooks](/notebooks/).
 
-Pour utiliser ce répertoire, vous truoverez [des détails plus bas](#utilisation).
+Les Jupyter Notebooks présents dans ce répertoire sont visibles directement sur GitHub. Si vous rencontrez des problèmes pour les afficher dans votre navigateur, je vous conseille d'utiliser le site [nbviewer](http://nbviewer.jupyter.org/).
+
+Pour utiliser ce répertoire, vous trouverez [des détails plus bas](#utilisation).
 
 ## Organisation du répertoire
 
@@ -29,6 +31,7 @@ Les thèmes abordés sont les suivants :
 - *Chapitre 7* - Les traitements "big data"
   - [*7.1* - Récupérer des données depuis une infrastructure big data](/notebooks/07_01_Big_data_import.ipynb)
   - [*7.2* - PySpark pour Apache Spark](/notebooks/07_02_Spark.ipynb)
+
 
 ## Les données
 
