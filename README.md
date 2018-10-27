@@ -40,6 +40,8 @@ Une partie des données utilisées dans l'ouvrage est disponible dans le répert
 <a id="utilisation"></a>
 ## Utilisation de ce répertoire
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/emjako/pythondatascientist/master)
+
 Vous pouvez bien entendu parcourir ce répertoire et ses notebooks directement sur github.com mais ce que je vous conseille, c'est de télécharger tous le répertoire et d'installer Anaconda sur votre machine. Vous en trouverez une version ici :
 
 [https://www.anaconda.com/download/](https://www.anaconda.com/download/)
@@ -77,6 +79,7 @@ jupyter lab
 ```
 C'est parti, vous pouvez commencer à coder !
 
+**Attention :** il peut arriver que certains packages doivent être installés manuellement.
 
 ## Utilisation et licence
 
