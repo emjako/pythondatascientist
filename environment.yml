@@ -96,6 +96,7 @@ dependencies:
   - msgpack-python
   - nbconvert
   - nbformat
+  - nltk
   - numba
   - numpy
   - numpy-base
