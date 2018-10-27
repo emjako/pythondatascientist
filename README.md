@@ -77,8 +77,6 @@ jupyter lab
 ```
 C'est parti, vous pouvez commencer à coder !
 
-**Attention :** certains packages ne sont pas installé par défaut dans votre environnement, il faudra les installer manuellement.
-
 
 ## Utilisation et licence
 
