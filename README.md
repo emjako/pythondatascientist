@@ -40,7 +40,7 @@ Une partie des données utilisées dans l'ouvrage est disponible dans le répert
 <a id="utilisation"></a>
 ## Utilisation de ce répertoire
 
-### Binder 
+### Binder
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/emjako/pythondatascientist/master)
 
@@ -56,18 +56,18 @@ Une fois que vous avez installé Anaconda, vous pouvez créer un environnement �
 
 Utilisez le terminal ou la ligne de commande Anaconda (Conda Prompt). Utilisez la commande :
 ```
-conda-env create -n mon_nouvel_env -f=environment.yml
+conda env create -n mon_nouvel_env -f environment.yml
 ```
 
 Il ne vous reste qu'à activer votre environnement en utilisant :
 - Pour MacOS et Linux :
 ```
-source activate myenv
+source activate mon_nouvel_env
 ```
 
 - Pour Windows :
 ```
-activate myenv
+activate mon_nouvel_env
 ```
 
 Pour vérifier l'installation, utilisez :
@@ -91,7 +91,7 @@ C'est parti, vous pouvez commencer à coder !
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emjako/pythondatascientist)
 
-Finalement, il existe une dernière solution, c'est l'utilisation du service de Google, Google Colab. Vous pouvez lancer des Notebooks directement dans Colab à partir du répertoire GitHub. Colab a l'avantage d'avoir installé la plupart des packages de data science. Pour lancer Cola, il vous faut un compte Google et il vous suffit de cliquer sur le bouton ci-dessus. 
+Finalement, il existe une dernière solution, c'est l'utilisation du service de Google, Google Colab. Vous pouvez lancer des Notebooks directement dans Colab à partir du répertoire GitHub. Colab a l'avantage d'avoir installé la plupart des packages de data science. Pour lancer Cola, il vous faut un compte Google et il vous suffit de cliquer sur le bouton ci-dessus.
 
 ## Utilisation et licence
 
