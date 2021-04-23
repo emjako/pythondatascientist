@@ -2,7 +2,7 @@
 
 # Python pour le data scientist
 
-Ce répertoire rassemble des [Jupyter](http://jupyter.org/) Notebooks ainsi que des données permettant d'illustrer l'ouvrage [Python pour le data scientist](https://www.dunod.com/sciences-techniques/python-pour-data-scientist-bases-du-langage-au-machine-learning-0) par Emmanuel Jakobowicz paru chez Dunod en octobre 2018.
+Ce répertoire rassemble des [Jupyter](http://jupyter.org/) Notebooks ainsi que des données permettant d'illustrer la seconde édition de l'ouvrage [Python pour le data scientist](https://www.dunod.com/sciences-techniques/python-pour-data-scientist-bases-du-langage-au-machine-learning-1) par Emmanuel Jakobowicz paru chez Dunod en mars 2021.
 
 Les notebooks sont divisés par chapitres ou sous-chapitres et sont rassemblés dans le répertoire [notebooks](/notebooks/).
 
