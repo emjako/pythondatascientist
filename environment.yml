@@ -74,7 +74,6 @@ dependencies:
   - matplotlib-inline
   - mistune
   - mkl
-  - msys2-conda-epoch
   - nbclient
   - nbconvert
   - nbformat
