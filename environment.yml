@@ -143,6 +143,7 @@ dependencies:
   - urllib3
   - wcwidth
   - wheel
+  - xlrd
   - zict
   - pip:
     - absl-py
