@@ -1,7 +1,7 @@
 import pandas as pd
 from bokeh.plotting import figure
-from bokeh.layouts import layout, widgetbox
-from bokeh.models import ColumnDataSource, Div, HoverTool
+from bokeh.layouts import layout
+from bokeh.models import ColumnDataSource, Div, HoverTool, Column
 from bokeh.models.widgets import Select
 from bokeh.io import curdoc
 
@@ -11,9 +11,11 @@ listing=pd.read_csv("../data/listing_extrait.csv", low_memory=False)
 listing_chers = listing[listing["number_of_reviews"]>20]\
 [["host_is_superhost","number_of_reviews", "price","name","room_type",
   "bedrooms","review_scores_rating"]]
+
 # Définition des widgets (un outil de sélection en fonction de la colonne
 # superhost)
 superhost = Select(title="Super-host", value="All", options=["Vrai","Faux"])
+
 # Définition de la source de données. Elle est vide et utilise un dictionnaire
 source = ColumnDataSource(data=dict(nb_com=[], note_com=[], type_chambre=[],
                                     name=[], price=[]))
@@ -27,18 +29,18 @@ TOOLTIPS=HoverTool(tooltips=[
 ])
 
 # construction de la figure et ajout des points à partir des données
-p = figure(plot_height=600, plot_width=700,
-title="", toolbar_location=None, tools=[TOOLTIPS])
+p = figure(height=600, width=700,
+           title="", toolbar_location=None, tools=[TOOLTIPS])
 p.circle(x="nb_com", y="note_com", source=source, size=2)
 
 # définition d’une fonction de mise à jour des données
 def update() :
     if superhost.value == "Vrai":
-        super="t"
+        super_h="t"
     else:
-        super="f"
+        super_h="f"
 
-    listing2=listing_chers[listing_chers["host_is_superhost"]==super]
+    listing2=listing_chers[listing_chers["host_is_superhost"]==super_h]
     p.xaxis.axis_label = "Nombre de commentaires"
     p.yaxis.axis_label = "Note moyenne"
     # mise à jour des données
@@ -55,10 +57,12 @@ for control in controls:
     control.on_change('value', lambda attr, old, new: update())
 
 # construction du layout pour l’affichage
-inputs = widgetbox(*controls, sizing_mode="fixed")
+inputs = Column(*controls, sizing_mode="fixed")
 l = layout([inputs, p], sizing_mode="fixed")
+
 # premier chargement des données
 update()
+
 # utilisation de curdoc() pour générer la dataviz
 curdoc().add_root(l)
 curdoc().title = "AirBnB"
