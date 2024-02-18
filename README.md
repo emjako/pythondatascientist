@@ -1,8 +1,12 @@
-![](/other/python-pour-le-data-scientist-dunod.jpeg)
+![](https://www.dunod.com/sites/default/files/styles/principal_desktop/public/thumbnails/image/9782100859764-001-X.jpeg)
 
-# Python pour le data scientist
+# Python pour le data scientist <img height="28" width="28" src="https://cdn.simpleicons.org/python/00ccff99" />
 
-Ce répertoire rassemble des [Jupyter](http://jupyter.org/) Notebooks ainsi que des données permettant d'illustrer la seconde édition de l'ouvrage [Python pour le data scientist](https://www.dunod.com/sciences-techniques/python-pour-data-scientist-bases-du-langage-au-machine-learning-1) par Emmanuel Jakobowicz paru chez Dunod en mars 2021.
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/emjako/pythondatascientist/master)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emjako/pythondatascientist)
+
+
+Ce répertoire rassemble des [Jupyter](https://jupyter.org/) Notebooks ainsi que des données permettant d'illustrer la troisième édition de l'ouvrage [Python pour le data scientist](https://www.dunod.com/sciences-techniques/python-pour-data-scientist-bases-du-langage-au-machine-learning-1) par Emmanuel Jakobowicz paru chez Dunod en mars 2024.
 
 Les notebooks sont divisés par chapitres ou sous-chapitres et sont rassemblés dans le répertoire [notebooks](/notebooks/).
 
@@ -91,7 +95,7 @@ C'est parti, vous pouvez commencer à coder !
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emjako/pythondatascientist)
 
-Finalement, il existe une dernière solution, c'est l'utilisation du service de Google, Google Colab. Vous pouvez lancer des Notebooks directement dans Colab à partir du répertoire GitHub. Colab a l'avantage d'avoir installé la plupart des packages de data science. Pour lancer Cola, il vous faut un compte Google et il vous suffit de cliquer sur le bouton ci-dessus.
+Finalement, il existe une dernière solution, c'est l'utilisation du service de Google, Google Colab. Vous pouvez lancer des Notebooks directement dans Colab à partir du répertoire GitHub. Colab a l'avantage d'avoir installé la plupart des packages de data science. Pour lancer Colab, il vous faut un compte Google et il vous suffit de cliquer sur le bouton ci-dessus.
 
 ## Utilisation et licence
 
