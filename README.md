@@ -6,7 +6,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emjako/pythondatascientist)
 
 
-Ce répertoire rassemble des [Jupyter](https://jupyter.org/) Notebooks ainsi que des données permettant d'illustrer la troisième édition de l'ouvrage [Python pour le data scientist](https://www.dunod.com/sciences-techniques/python-pour-data-scientist-bases-du-langage-au-machine-learning-1) par Emmanuel Jakobowicz paru chez Dunod en mars 2024.
+Ce répertoire rassemble des [Jupyter](https://jupyter.org/) Notebooks ainsi que des données permettant d'illustrer la troisième édition de l'ouvrage [Python pour le data scientist](https://www.dunod.com/sciences-techniques/python-pour-data-scientist-bases-du-langage-au-machine-learning-2) par Emmanuel Jakobowicz paru chez Dunod en mars 2024.
 
 Les notebooks sont divisés par chapitres ou sous-chapitres et sont rassemblés dans le répertoire [notebooks](/notebooks/).
 
